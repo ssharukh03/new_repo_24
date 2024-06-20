@@ -1,0 +1,10 @@
+The Apache 2.0 License is a permissive open-source license that allows for both commercial and non-commercial use with minimal restrictions. Here's a breakdown of the key points:
+
+Permissive License: This means there are few limitations on how you can use the code. You can use it in your own projects, modify it, and even distribute it commercially without paying any royalties.
+Commercial Use: You can freely use the code in products that you sell.
+Modification and Distribution: You can modify the code and distribute your modified versions, but you must include the original license terms and copyright notices with your version.
+Patent Grant: The license grants you a patent license from the contributors, allowing you to use their patented inventions related to the code.
+Here are some resources where you can learn more about the Apache 2.0 License:
+
+The official Apache License text: https://apache.org/licenses/LICENSE-2.0
+A breakdown of the Apache 2.0 License in simpler terms: https://docs.snyk.io/scan-using-snyk/snyk-open-source/scan-open-source-libraries-and-licenses/open-source-license-compliance
